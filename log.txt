@@ -1,0 +1,142 @@
+2023-12-05 23:13:01.088 ==>   ID not found ..!
+2023-12-05 23:13:01.095 ==>   New Entry from file
+2023-12-05 23:13:01.096 ==>   ID not found ..!
+2023-12-05 23:13:01.096 ==>   New Entry from file
+2023-12-05 23:13:15.593 ==>   ID not found ..!
+2023-12-05 23:13:15.603 ==>   New Entry from file
+2023-12-05 23:13:15.604 ==>   ID not found ..!
+2023-12-05 23:13:15.605 ==>   New Entry from file
+2023-12-05 23:13:21.868 ==>   Entire report submitted
+2023-12-05 23:13:58.511 ==>   ID not found ..!
+2023-12-05 23:13:58.518 ==>   New Entry from file
+2023-12-05 23:13:58.519 ==>   Exception Catched
+2023-12-05 23:14:14.035 ==>   Entire report submitted
+2023-12-05 23:14:27.681 ==>   Completed Entire Execution
+2023-12-05 23:20:44.048 ==>   ID not found ..!
+2023-12-05 23:20:44.055 ==>   New Entry from file
+2023-12-05 23:20:44.056 ==>   ID not found ..!
+2023-12-05 23:20:44.056 ==>   New Entry from file
+2023-12-05 23:20:55.943 ==>   Name found ..!
+2023-12-05 23:20:55.945 ==>   ID found ..!
+2023-12-05 23:20:55.945 ==>   Details retrieved by Id
+2023-12-05 23:20:55.945 ==>   Product details rendered
+2023-12-05 23:20:55.946 ==>   Product Purchased
+2023-12-05 23:22:08.871 ==>   ID not found ..!
+2023-12-05 23:22:08.877 ==>   New Entry from file
+2023-12-05 23:22:08.878 ==>   ID not found ..!
+2023-12-05 23:22:08.878 ==>   New Entry from file
+2023-12-05 23:22:19.739 ==>   Name found ..!
+2023-12-05 23:22:19.741 ==>   ID found ..!
+2023-12-05 23:22:19.741 ==>   Details retrieved by Id
+2023-12-05 23:22:19.741 ==>   Product details rendered
+2023-12-05 23:22:19.742 ==>   Product Purchased
+2023-12-05 23:22:39.013 ==>   ID not found ..!
+2023-12-05 23:22:39.019 ==>   New Entry from file
+2023-12-05 23:22:39.02 ==>   ID not found ..!
+2023-12-05 23:22:39.02 ==>   New Entry from file
+2023-12-05 23:22:42.12 ==>   ID not found ..!
+2023-12-05 23:22:42.126 ==>   New Entry from file
+2023-12-05 23:22:42.127 ==>   ID not found ..!
+2023-12-05 23:22:42.127 ==>   New Entry from file
+2023-12-05 23:23:12.826 ==>   Name found ..!
+2023-12-05 23:23:12.828 ==>   ID found ..!
+2023-12-05 23:23:12.829 ==>   Details retrieved by Id
+2023-12-05 23:23:12.829 ==>   Product details rendered
+2023-12-05 23:23:12.829 ==>   Product Purchased
+2023-12-05 23:23:29.745 ==>   Name found ..!
+2023-12-05 23:23:29.745 ==>   ID found ..!
+2023-12-05 23:23:29.746 ==>   Details retrieved by Id
+2023-12-05 23:23:29.747 ==>   Product details rendered
+2023-12-05 23:23:29.747 ==>   Product Purchased
+2023-12-05 23:24:29.075 ==>   ID not found ..!
+2023-12-05 23:24:29.083 ==>   New Entry from file
+2023-12-05 23:24:29.083 ==>   ID not found ..!
+2023-12-05 23:24:29.084 ==>   New Entry from file
+2023-12-05 23:24:37.358 ==>   Name found ..!
+2023-12-05 23:24:37.359 ==>   ID found ..!
+2023-12-05 23:24:37.36 ==>   Details retrieved by Id
+2023-12-05 23:24:37.36 ==>   Product details rendered
+2023-12-05 23:24:37.36 ==>   Product Purchased
+2023-12-05 23:24:48.55 ==>   Name found ..!
+2023-12-05 23:24:48.55 ==>   ID found ..!
+2023-12-05 23:24:48.551 ==>   Details retrieved by Id
+2023-12-05 23:24:48.552 ==>   Product details rendered
+2023-12-05 23:24:48.553 ==>   Product Purchased
+2023-12-05 23:45:58.45 ==>   ID not found ..!
+2023-12-05 23:45:58.457 ==>   New Entry from file
+2023-12-05 23:45:58.457 ==>   ID not found ..!
+2023-12-05 23:45:58.457 ==>   New Entry from file
+2023-12-05 23:46:06.52 ==>   Name found ..!
+2023-12-05 23:46:06.521 ==>   ID found ..!
+2023-12-05 23:46:06.522 ==>   Details retrieved by Id
+2023-12-05 23:46:06.522 ==>   Product details rendered
+2023-12-05 23:46:06.522 ==>   Product Purchased
+2023-12-05 23:50:53.238 ==>   ID not found ..!
+2023-12-05 23:50:53.245 ==>   New Entry from file
+2023-12-05 23:50:53.245 ==>   ID not found ..!
+2023-12-05 23:50:53.245 ==>   New Entry from file
+2023-12-05 23:51:00.112 ==>   Name found ..!
+2023-12-05 23:51:00.114 ==>   ID found ..!
+2023-12-05 23:51:00.115 ==>   Details retrieved by Id
+2023-12-05 23:51:00.115 ==>   Product details rendered
+2023-12-05 23:51:00.115 ==>   Product Purchased
+2023-12-05 23:51:00.116 ==>   Name found ..!
+2023-12-05 23:51:00.116 ==>   Input Quantity not satisfied
+2023-12-05 23:51:00.116 ==>   Thread main executed
+2023-12-05 23:52:00.352 ==>   ID not found ..!
+2023-12-05 23:52:00.36 ==>   New Entry from file
+2023-12-05 23:52:00.36 ==>   ID not found ..!
+2023-12-05 23:52:00.36 ==>   New Entry from file
+2023-12-05 23:52:08.165 ==>   Thread main executed
+2023-12-05 23:52:08.165 ==>   Name found ..!
+2023-12-05 23:52:08.168 ==>   ID found ..!
+2023-12-05 23:52:08.168 ==>   Details retrieved by Id
+2023-12-05 23:52:08.168 ==>   Product details rendered
+2023-12-05 23:52:08.168 ==>   Product Purchased
+2023-12-05 23:52:08.169 ==>   Name found ..!
+2023-12-05 23:52:08.169 ==>   Input Quantity not satisfied
+2023-12-05 23:53:24.262 ==>   ID not found ..!
+2023-12-05 23:53:24.269 ==>   New Entry from file
+2023-12-05 23:53:24.27 ==>   ID not found ..!
+2023-12-05 23:53:24.27 ==>   New Entry from file
+2023-12-05 23:53:29.091 ==>   Thread main executed
+2023-12-05 23:53:29.091 ==>   Name found ..!
+2023-12-05 23:53:29.093 ==>   ID found ..!
+2023-12-05 23:53:29.093 ==>   Details retrieved by Id
+2023-12-05 23:53:29.094 ==>   Product details rendered
+2023-12-05 23:53:29.094 ==>   Product Purchased
+2023-12-05 23:53:29.094 ==>   Name found ..!
+2023-12-05 23:53:29.095 ==>   ID found ..!
+2023-12-05 23:53:29.095 ==>   Details retrieved by Id
+2023-12-05 23:53:29.095 ==>   Product details rendered
+2023-12-05 23:53:29.095 ==>   Product Purchased
+2023-12-05 23:59:54.698 ==>   ID not found ..!
+2023-12-05 23:59:54.705 ==>   New Entry from file
+2023-12-05 23:59:54.705 ==>   ID not found ..!
+2023-12-05 23:59:54.705 ==>   New Entry from file
+2023-12-06 00:00:07.138 ==>   Name not found ..!
+2023-12-06 00:00:07.139 ==>   New Entry
+2023-12-06 00:00:07.139 ==>   Valid user input
+2023-12-06 00:00:15.144 ==>   Entire report submitted
+2023-12-06 00:00:27.539 ==>   Name found ..!
+2023-12-06 00:00:27.539 ==>   Specific report submitted
+2023-12-06 00:00:30.603 ==>   Completed Entire Execution
+2023-12-06 00:00:44.549 ==>   ID not found ..!
+2023-12-06 00:00:44.555 ==>   New Entry from file
+2023-12-06 00:00:44.556 ==>   ID not found ..!
+2023-12-06 00:00:44.556 ==>   New Entry from file
+2023-12-06 00:03:16.426 ==>   Entire report submitted
+2023-12-06 00:03:26.048 ==>   Name found ..!
+2023-12-06 00:03:26.049 ==>   Specific report submitted
+2023-12-06 00:04:10.406 ==>   Thread main executed
+2023-12-06 00:04:10.407 ==>   Name found ..!
+2023-12-06 00:04:10.407 ==>   ID found ..!
+2023-12-06 00:04:10.407 ==>   Details retrieved by Id
+2023-12-06 00:04:10.408 ==>   Product details rendered
+2023-12-06 00:04:10.408 ==>   Product Purchased
+2023-12-06 00:04:24.044 ==>   Thread main executed
+2023-12-06 00:04:24.044 ==>   Name found ..!
+2023-12-06 00:04:24.044 ==>   ID found ..!
+2023-12-06 00:04:24.045 ==>   Details retrieved by Id
+2023-12-06 00:04:24.045 ==>   Product details rendered
+2023-12-06 00:04:24.046 ==>   Product Purchased
